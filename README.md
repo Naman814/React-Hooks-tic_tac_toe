@@ -17,9 +17,18 @@
 <li> Javascript </li>
 </ul>
 
+<h2>To run this project</h2>
+
+<ol>
+<li> clone the repository to desired location ( "git clone [url]" ) </li>
+<li> Type the command ( "npm install" ) </li>
+<li> Run the project ( "npm start" )</li>
+</ol>
+
+
 <h2>Snapshot </h2>
 
-<img src="./Image/snapshot.jpg"> 
+<img src="./Image/snapshot.jpg"  width="350px" height="350px"> 
 
 
 <h2>Link </h2> https://naman814.github.io/React-Hooks-tic_tac_toe
