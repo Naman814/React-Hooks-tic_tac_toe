@@ -25,7 +25,7 @@ const winner=calculateWinner(gameState);
         <div>
 <div class="text-center" id="box">
   <header>
-    <h1> TicTacToe</h1>
+    <h1> Tic Tac Toe</h1>
     <h1>{status}</h1>
   
   </header>
